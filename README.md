@@ -2,7 +2,7 @@
 GeorgetownX BIOX-201-01x Demystifying Biomedical Big Data
 
 # Disclaimer
-Everything in this repo is derived from the course [GeorgetownX BIOX-201-01xDemystifying Biomedical Big Data](http://https://learning.edx.org/course/course-v1:GeorgetownX+BIOX-201-01x+1T2017/home "GeorgetownX BIOX-201-01xDemystifying Biomedical Big Data"). It is meant for revision and reference purposes and I take no responsibilities for any damaged caused by the use of it (see [LICENSE](htthttps://github.com/jmplaza75/BIOX-201-01x-Demystifying-Biomedical-Big-Data/blob/main/LICENSEp:// "LICENSE")).
+Everything in this repo is derived from the course [GeorgetownX BIOX-201-01xDemystifying Biomedical Big Data](http://https://learning.edx.org/course/course-v1:GeorgetownX+BIOX-201-01x+1T2017/home "GeorgetownX BIOX-201-01xDemystifying Biomedical Big Data"). It is meant for revision and reference purposes and I take no responsibilities for any damaged caused by the use of it (see [LICENSE](https://github.com/jmplaza75/BIOX-201-01x-Demystifying-Biomedical-Big-Data/blob/main/LICENSE)).
 
 # Summary
 This course is interesting, as it introduces the G-DOC platform along with other resources for analyzing genomics, transcriptomics, proteomics data, etc., understanding the corresponding pathways.
